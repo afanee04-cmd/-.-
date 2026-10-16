@@ -1,0 +1,6 @@
+{
+  "name": "เกมตู้ยาสามัญประจำบ้าน อย.น้อย",
+  "description": "เกมการศึกษาสำหรับนักเรียน อย.น้อย เรียนรู้การจัดตู้ยาสามัญประจำบ้าน แยกประเภทยาใช้ภายใน ยาใช้ภายนอก เวชภัณฑ์ และตรวจจับยาหมดอายุ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
